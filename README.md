@@ -91,3 +91,14 @@ Repositori ini berisi dokumen *Project Management Plan* yang mencakup area penge
 
 11. **Human Resource Plan**
     Struktur organisasi tim inti (5 orang), termasuk peran, tanggung jawab, dan matriks RACI.
+
+---
+### Anggota Kelompok
+1. **Evelyna Angie** (103102400040)  
+2. **Yoan Natasya Agustin S.** (103102430001)  
+3. **Fira Adelia Septa** (103102430002)
+
+---
+
+Repositori ini berisi dokumen **Project Management Plan** untuk proyek **MakeMeBloom**, yang disusun sebagai bagian dari **Tugas Besar Mata Kuliah Manajemen Proyek**.
+
